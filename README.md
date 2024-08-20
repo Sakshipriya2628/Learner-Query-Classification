@@ -35,5 +35,6 @@ Through the evaluation of various machine learning models, the project aimed to 
 Prerequisites
 - Python 3.x
 - Libraries: scikit-learn, TensorFlow/PyTorch (for BERT), SpaCy, pandas, numpy
+  
 Consideration:
 Dataset provided by the organisation was not accurate and clear to optimise the model more but when tested on correct dummy data the model response was good.
